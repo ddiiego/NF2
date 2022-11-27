@@ -10,6 +10,10 @@ body > div.container > div > img {
 
 /*informativos*/
 
+
+body > div.container > div > img {
+    border-radius: 10px;
+}
 .container {
     margin: auto;
     max-width: 800px;
